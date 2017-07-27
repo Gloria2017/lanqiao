@@ -1,0 +1,7 @@
+//轮播动画
+$(document).ready(function() {
+	$('#myRoundabout').roundabout({
+		 shape: 'figure8',
+		 minOpacity: 1
+	});
+});

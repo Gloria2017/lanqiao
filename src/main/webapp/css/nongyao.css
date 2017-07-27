@@ -1,0 +1,323 @@
+	body{background-color: #DDDDDD;}
+			#headpicture{
+				margin-left: -15px;
+			}
+			#bigone{
+				/*border-style: solid;*/
+				margin: auto;
+				width: 1200px;
+				height: 30.5cm;
+				margin-top: -20px;
+				}
+			#headline{
+				/*border-style: solid;*/
+				
+				margin-top: 20px;
+				height: 60px;
+				width: 1200px;
+				background-color: #CCCCCC;
+				
+			}
+			#headline ul li{
+				padding-left: 30px;
+				padding-right:30px;
+				border-right-style: solid;
+				border-color: #EDEEF3;
+				float: left;
+				list-style: none;
+		/*		padding-left: 50px;*/
+				line-height: 15px;/*垂直居中*/
+			/*	padding-right: 20px;*/
+				height: 60px;
+				/*margin: auto;*/
+				/*margin-left: 60px;*/
+			}
+			#headline  a:link{
+				color: black;
+				text-decoration: none;
+			}
+			#headline a:visited{
+				color: black;
+			}
+			#headline a:hover{
+				color: yellow;
+				border-bottom-style: solid;
+			}
+			#newrecommend{
+				background-color: #010F2A;
+				border-style: solid;
+				height: 100px;
+			}
+			
+			#newrecommend ul li{
+				list-style: none;
+				float: left;
+				padding-left: 50px;
+				
+			}
+			#newrecommend img{
+				width:80px;
+			}
+			#newhero{
+				margin-top: -20px;
+				color: white;
+				
+			}
+			#newhero-picture{
+				margin-top: -112px;
+				margin-left: 30px;
+				padding-left: 50px;
+				position: absolute;
+				z-index: 2;
+			}
+			#hothero {
+				margin-left: 450px;
+				margin-top: -100px;
+				color: white;
+				/*border-style: solid;*/
+				height: 70px;
+				width: 70px;
+			}
+			#hothero-picture{
+				margin-left: 550px;
+				margin-top: -85px;
+				position: absolute;
+				z-index: 2;
+			}
+			#taobao{
+				/*border-style: solid;*/
+				width: 100%;
+				height: 300px;
+				margin-top: 10px;
+				
+				/*z-index: 1;*/
+			}
+			#taobao img{
+				height: 200px;
+				position: absolute;
+				z-index: 1;
+			}
+			#taobao1{
+				position: absolute;
+			}
+			#taobao2{
+				margin-left: 70px;
+				position: absolute;
+			}
+			#taobao3{
+				margin-left: 140px;
+				position: absolute;
+			}
+			#taobao4{
+				margin-left: 210px;
+				position: absolute;
+			}
+			#taobao5{
+				margin-left: 280px;
+				position: absolute;
+			}
+			#taobao6{
+				margin-left: 350px;
+				position: absolute;
+			}
+			#taobao7{
+				margin-left: 420px;
+				position: absolute;
+			}
+			#taobao8{
+				margin-left: 490px;
+				position: absolute;
+			}
+			#taobao9{
+				margin-left: 560px;
+				position: absolute;
+			}
+			#taobao10{
+				margin-left: 630px;
+				position: absolute;
+			}
+			#taobao11{
+				margin-left: 700px;
+				position: absolute;
+			}
+			#taobao12{
+				margin-left: 700px;
+				position: absolute;
+			}
+			#taobao13{
+				margin-left: 770px;
+				position: absolute;
+			}
+			#taobao14{
+				margin-left: 840px;
+				position: absolute;
+			}
+			#taobao15{
+				margin-left: 910px;
+				position: absolute;
+			}
+			#taobao16{
+				margin-left: 980px;
+				position: absolute;
+			}
+			#taobao17{
+				margin-left: 1050px;
+				position: absolute;
+			}
+			#taobao18{
+				margin-left: 1120px;
+				position: absolute;
+			}
+			
+			#zhoubian{
+				border-style: solid;
+				text-align: center;
+				margin-top: -120px;
+				color: white;
+				word-spacing:10px
+				/*z-index: 2;*/
+			}
+			#news{
+				margin-top: -50px;
+			}
+			#l-picture{
+				margin-left: 500px;
+				margin-top: -560px;
+			}
+			#l-picture img{
+				height: 300px;
+			}
+			#zx{
+				border-style: solid;
+				border-color: #DDDDDD;
+				width: 1000px;
+				margin-left: 500px;
+				position: absolute;
+				margin-top: 50px;
+			}
+			#zxp{
+				
+			}
+			#zxp ul li{
+				list-style: none;
+				float: left;
+				
+			}
+			#zxp img{
+				height: 120px;
+				padding-left: 50px;
+			}
+			#strategy{
+				margin-top: 280px;
+				/*border-style: solid;*/
+				
+			}
+	#strategy  a:link{
+		color: black;
+
+	}
+	#strategy a:visited{
+		color: black;
+	}
+	#strategy a:hover{
+		color: blue;
+
+	}
+			#strategy img{
+				height: 150px;
+			}
+			#hero-strategy{
+				margin-left: 400px;
+				margin-top: -220px;
+			}
+			#new-strategy{
+				margin-left: 800px;
+				margin-top: -220px;
+			}
+			#allhero-table tr td{
+				width: 200px;
+			}
+			#allhero{
+				margin-top: 100px;
+			}
+			#allhero-picture{
+				margin-left: 0px;
+			}
+			#allhero img{
+				height: 80px;
+			}
+			#allequip{
+				margin-top: 100px;
+			}
+			#allequip ul li{
+				list-style: none;
+				float: left;
+				margin-left: 30px;
+			}
+			#allequip img{
+				height: 100px;
+			}
+			#allequip-table tr td{
+				width: 250px;
+			}
+			#lh-picture{
+				margin-top: 280px;
+				/*border-style: solid;*/
+				height: 200px;
+				width: 100px;
+				margin-left: 180px;
+				
+			}
+			.container ul li{
+				list-style: none;
+			}
+			#fdmemu{
+				/*border-style: solid;*/
+				height: 500px;
+				position: absolute;
+				z-index: 3;
+				width: 50cm;
+				/*background: black;*/
+				color: white;
+				font-size: 25px;
+				/*opacity:'0.5'/* 透明度动画*/
+			}
+			#fdmemu  a:link{
+				color: white;
+
+			}
+			#fdmemu a:visited{
+				color: white;
+			}
+			#fdmemu a:hover{
+				color: yellow;
+
+			}
+			#fdmemu ul li{
+				list-style: none;
+				
+			}
+			#fdmemu1{
+				margin-left: 200px;
+				margin-top: -280px;
+			}
+			#fdmemu2{
+				margin-left: 350px;
+				margin-top: -100px;
+			}
+			#fdmemu3{
+				margin-left: 500px;
+				margin-top: -55px;
+			}
+			#fdmemu4{
+				margin-left: 800px;
+				margin-top: -50px;
+			}
+			#glxq{
+				border-style: solid;
+				width: 200px;
+				height: 200px;
+			}
+			
+			
+			
